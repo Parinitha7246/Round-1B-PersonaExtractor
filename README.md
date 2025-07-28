@@ -1,4 +1,3 @@
-# Round-1B-PersonaExtractor
 
 # Adobe Hackathon 2025 – Round 1B: Persona-Driven Document Intelligence
 
